@@ -1,0 +1,4 @@
+[26-May-2024 09:38:53 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/cardanoproperty/public_html/demo/admin/include/upper.php on line 2
+[26-May-2024 09:38:53 UTC] PHP Warning:  session_cache_limiter(): Session cache limiter cannot be changed when a session is active in /home/cardanoproperty/public_html/demo/admin/include/upper.php on line 3
+[26-May-2024 09:39:09 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/cardanoproperty/public_html/demo/admin/include/upper.php on line 2
+[26-May-2024 09:39:09 UTC] PHP Warning:  session_cache_limiter(): Session cache limiter cannot be changed when a session is active in /home/cardanoproperty/public_html/demo/admin/include/upper.php on line 3
