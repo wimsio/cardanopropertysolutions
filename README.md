@@ -8,5 +8,7 @@ This is the repository for the dApp prototype. This has the following:
 4. Source code developed: Front End of the dApp hosted - `https://github.com/wimsio/cardanopropertysolutions at src/frontend
 5. Source code developed: Back End of the dApp hosted - `https://github.com/wimsio/cardanopropertysolutions at src/backend && https://github.com/wimsio/cardanopropertysolutions at src/admin
 6. [Integrated fully running web application](https://cardanopropertysolutions.co/)
+7. [Video showing a fully running application](https://youtu.be/1iKNEkpJh48)
+
 
 
