@@ -1,0 +1,63 @@
+[29-May-2024 19:52:04 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/cardanoproperty/public_html/admin/include/upper.php on line 2
+[29-May-2024 19:52:04 UTC] PHP Warning:  session_cache_limiter(): Session cache limiter cannot be changed when a session is active in /home/cardanoproperty/public_html/admin/include/upper.php on line 3
+[29-May-2024 19:52:16 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/cardanoproperty/public_html/admin/include/upper.php on line 2
+[29-May-2024 19:52:16 UTC] PHP Warning:  session_cache_limiter(): Session cache limiter cannot be changed when a session is active in /home/cardanoproperty/public_html/admin/include/upper.php on line 3
+[29-May-2024 19:52:23 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/cardanoproperty/public_html/admin/include/upper.php on line 2
+[29-May-2024 19:52:23 UTC] PHP Warning:  session_cache_limiter(): Session cache limiter cannot be changed when a session is active in /home/cardanoproperty/public_html/admin/include/upper.php on line 3
+[29-May-2024 20:01:40 UTC] PHP Warning:  Undefined variable $error in /home/cardanoproperty/public_html/admin/about-add.php on line 29
+[29-May-2024 20:01:40 UTC] PHP Warning:  Undefined variable $msg in /home/cardanoproperty/public_html/admin/about-add.php on line 30
+[29-May-2024 20:13:20 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/cardanoproperty/public_html/admin/include/upper.php on line 2
+[29-May-2024 20:13:20 UTC] PHP Warning:  session_cache_limiter(): Session cache limiter cannot be changed when a session is active in /home/cardanoproperty/public_html/admin/include/upper.php on line 3
+[29-May-2024 20:13:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function breadcrumbs() in /home/cardanoproperty/public_html/admin/about-view.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/cardanoproperty/public_html/admin/about-view.php on line 31
+[29-May-2024 20:13:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function breadcrumbs() in /home/cardanoproperty/public_html/admin/about-view.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/cardanoproperty/public_html/admin/about-view.php on line 31
+[29-May-2024 20:15:39 UTC] PHP Warning:  include(./footer.php): Failed to open stream: No such file or directory in /home/cardanoproperty/public_html/admin/about-view.php on line 85
+[29-May-2024 20:15:39 UTC] PHP Warning:  include(): Failed opening './footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/cardanoproperty/public_html/admin/about-view.php on line 85
+[29-May-2024 20:16:57 UTC] PHP Warning:  include(./footer.php): Failed to open stream: No such file or directory in /home/cardanoproperty/public_html/admin/about-view.php on line 85
+[29-May-2024 20:16:57 UTC] PHP Warning:  include(): Failed opening './footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/cardanoproperty/public_html/admin/about-view.php on line 85
+[29-May-2024 20:17:13 UTC] PHP Warning:  include(./footer.php): Failed to open stream: No such file or directory in /home/cardanoproperty/public_html/admin/about-view.php on line 85
+[29-May-2024 20:17:13 UTC] PHP Warning:  include(): Failed opening './footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/cardanoproperty/public_html/admin/about-view.php on line 85
+[29-May-2024 20:18:28 UTC] PHP Warning:  include(./footer.php): Failed to open stream: No such file or directory in /home/cardanoproperty/public_html/admin/about-view.php on line 85
+[29-May-2024 20:18:28 UTC] PHP Warning:  include(): Failed opening './footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/cardanoproperty/public_html/admin/about-view.php on line 85
+[29-May-2024 20:18:33 UTC] PHP Warning:  Undefined variable $error in /home/cardanoproperty/public_html/admin/about-add.php on line 29
+[29-May-2024 20:18:33 UTC] PHP Warning:  Undefined variable $msg in /home/cardanoproperty/public_html/admin/about-add.php on line 30
+[29-May-2024 20:18:43 UTC] PHP Warning:  include(./footer.php): Failed to open stream: No such file or directory in /home/cardanoproperty/public_html/admin/about-view.php on line 85
+[29-May-2024 20:18:43 UTC] PHP Warning:  include(): Failed opening './footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/cardanoproperty/public_html/admin/about-view.php on line 85
+[29-May-2024 20:19:01 UTC] PHP Warning:  Undefined variable $error in /home/cardanoproperty/public_html/admin/about-add.php on line 29
+[29-May-2024 20:19:01 UTC] PHP Warning:  Undefined variable $msg in /home/cardanoproperty/public_html/admin/about-add.php on line 30
+[29-May-2024 20:25:17 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/cardanoproperty/public_html/admin/include/upper.php on line 2
+[29-May-2024 20:25:17 UTC] PHP Warning:  session_cache_limiter(): Session cache limiter cannot be changed when a session is active in /home/cardanoproperty/public_html/admin/include/upper.php on line 3
+[29-May-2024 20:29:50 UTC] PHP Warning:  Undefined array key 5 in /home/cardanoproperty/public_html/admin/admin-list.php on line 58
+[29-May-2024 20:32:04 UTC] PHP Warning:  require(config.php): Failed to open stream: No such file or directory in /home/cardanoproperty/public_html/admin/state-edit.php on line 16
+[29-May-2024 20:32:04 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'config.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/cardanoproperty/public_html/admin/state-edit.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/cardanoproperty/public_html/admin/state-edit.php on line 16
+[29-May-2024 20:33:26 UTC] PHP Warning:  include(./footer.php): Failed to open stream: No such file or directory in /home/cardanoproperty/public_html/admin/state-edit.php on line 97
+[29-May-2024 20:33:26 UTC] PHP Warning:  include(): Failed opening './footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/cardanoproperty/public_html/admin/state-edit.php on line 97
+[29-May-2024 20:34:12 UTC] PHP Warning:  include(./footer.php): Failed to open stream: No such file or directory in /home/cardanoproperty/public_html/admin/state-edit.php on line 96
+[29-May-2024 20:34:12 UTC] PHP Warning:  include(): Failed opening './footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/cardanoproperty/public_html/admin/state-edit.php on line 96
+[29-May-2024 20:36:13 UTC] PHP Warning:  include(cinfig/config.php): Failed to open stream: No such file or directory in /home/cardanoproperty/public_html/admin/city-edit.php on line 18
+[29-May-2024 20:36:13 UTC] PHP Warning:  include(): Failed opening 'cinfig/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/cardanoproperty/public_html/admin/city-edit.php on line 18
+[29-May-2024 20:36:20 UTC] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home/cardanoproperty/public_html/admin/city-delete.php on line 17
+[29-May-2024 20:36:20 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/cardanoproperty/public_html/admin/city-delete.php on line 17
+[29-May-2024 20:36:20 UTC] PHP Warning:  Undefined variable $con in /home/cardanoproperty/public_html/admin/city-delete.php on line 23
+[29-May-2024 20:36:20 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/cardanoproperty/public_html/admin/city-delete.php:23
+Stack trace:
+#0 /home/cardanoproperty/public_html/admin/city-delete.php(23): mysqli_query(NULL, 'DELETE FROM cit...')
+#1 {main}
+  thrown in /home/cardanoproperty/public_html/admin/city-delete.php on line 23
+[30-May-2024 05:15:58 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/cardanoproperty/public_html/admin/include/upper.php on line 2
+[30-May-2024 05:15:58 UTC] PHP Warning:  session_cache_limiter(): Session cache limiter cannot be changed when a session is active in /home/cardanoproperty/public_html/admin/include/upper.php on line 3
+[30-May-2024 05:16:10 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/cardanoproperty/public_html/admin/include/upper.php on line 2
+[30-May-2024 05:16:10 UTC] PHP Warning:  session_cache_limiter(): Session cache limiter cannot be changed when a session is active in /home/cardanoproperty/public_html/admin/include/upper.php on line 3
+[30-May-2024 05:19:06 UTC] PHP Warning:  include(./footer.php): Failed to open stream: No such file or directory in /home/cardanoproperty/public_html/admin/about-view.php on line 86
+[30-May-2024 05:19:06 UTC] PHP Warning:  include(): Failed opening './footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/cardanoproperty/public_html/admin/about-view.php on line 86
+[30-May-2024 05:19:12 UTC] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home/cardanoproperty/public_html/admin/about-edit.php on line 17
+[30-May-2024 05:19:12 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/cardanoproperty/public_html/admin/about-edit.php on line 17
+[30-May-2024 05:19:26 UTC] PHP Warning:  Undefined array key 5 in /home/cardanoproperty/public_html/admin/profile.php on line 79
