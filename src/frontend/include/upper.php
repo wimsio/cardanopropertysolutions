@@ -10,25 +10,12 @@
  * Communication Channels : cto@wims.io, admin@cardanopropertysolutions.co
  * Company : Women In Move Solutions
  *****/
-try 
-{
-
-    ini_set('session.cache_limiter','public');
-    
-    session_cache_limiter(false);
-    
-    session_start();
-    
-    include("./config/config.php");	
-    
-} 
-catch(Exception $e) 
-{
-  var_dump($e);
-}
+ini_set('session.cache_limiter','public');
+session_cache_limiter(false);
+session_start();
+include("./config/config.php");	
 							
 ?>
-
 <!DOCTYPE html>
 <html lang="en">
 

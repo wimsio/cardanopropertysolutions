@@ -23,6 +23,9 @@
 <script src="js/wow.js"></script> 
 <script src="js/jquery.slider.js"></script> 
 <script src="js/custom.js"></script> 
-<script src="app.js" type="module"></script> 
+<script src="../app.js" type="module"></script> 
+
+
 </body>
+
 </html> 

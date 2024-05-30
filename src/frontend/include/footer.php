@@ -11,6 +11,7 @@
  * Company : Women In Move Solutions
  *****/
 ?>
+
 <footer class="full-row bg-secondary p-0">
             <div class="container">
                 <div  class="row">
@@ -31,10 +32,10 @@
                                             <div class="footer-widget footer-nav mb-4">
                                                 <h4 class="widget-title text-white double-down-line-left position-relative">Menu</h4>
                                                 <ul class="hover-text-primary">
-                                                    <li><a href="about.php" class="text-white">About Us</a></li>
-                                                    <li><a href="#" class="text-white">List Properties</a></li>
-                                                    <li><a href="contact.php" class="text-white">Contact Us</a></li>
-                                                    <li><a href="team.php" class="text-white">Team</a></li>
+                                                    <li><a href="../about.php" class="text-white">About Us</a></li>
+                                                    <li><a href="../property.php" class="text-white">List Properties</a></li>
+                                                    <li><a href="../contact.php" class="text-white">Contact Us</a></li>
+                                                    <li><a href="../team.php" class="text-white">Team</a></li>
                                                 </ul>
                                             </div>
                                         </div>

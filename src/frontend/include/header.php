@@ -24,18 +24,14 @@
                         <div class="col-md-4">
                             <div class="top-contact float-right">
                                 <ul class="list-text-white d-table">
-								<li><?php echo strtoupper($_SESSION["uname"])." ";?><i class="fas fa-user text-success mr-1"></i>
+								<li><i class="fas fa-user text-success mr-1"></i>
 								<?php  if(isset($_SESSION['uemail']))
-								{ ?> 
+								{ ?>
 								<a href="logout.php">Logout</a>&nbsp;&nbsp;<?php } else { ?>
-								<a href="login.php">Login</a></li>
-								<li><i class="fas fa-user-plus text-success mr-1"></i><a href="register.php"> Register</li>
+								<a href="index.php">Login</a>&nbsp;&nbsp;
 								
-								<li>
-								    <i class="fas fa-user-plus text-success mr-1"></i>
-								    <a href="./admin/"> Admin</a>
-								</li><?php } ?> 
-								
+								| </li>
+								<li><i class="fas fa-user-plus text-success mr-1"></i><a href="register.php"> Register</li><?php } ?>
 								</ul>
                             </div>
                         </div>
@@ -52,14 +48,12 @@
                                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
                                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                                     <ul class="navbar-nav mr-auto">
-                                        <li class="nav-item dropdown"> <a class="nav-link" href="index.php" role="button" aria-haspopup="true" aria-expanded="false">Home</a></li>
-
-                                        <li class="nav-item"> <a class="nav-link" href="property.php">List Properties</a> </li>
-                                        <li class="nav-item"> <a class="nav-link" href="team.php">Team</a> </li>
-                                        <li class="nav-item"> <a class="nav-link" href="contact.php">Contact Us</a> </li>	
-                                        <li class="nav-item"> <a class="nav-link" href="services.php">Services</a> </li>
-                                        <li class="nav-item"> <a class="nav-link" href="about.php">About</a> </li>
-                                        <li class="nav-item"> <a class="nav-link" href="https://github.com/wimsio/cardanopropertysolutions">Github</a> </li>
+                                        <li class="nav-item dropdown"> <a class="nav-link" href="../index.php" role="button" aria-haspopup="true" aria-expanded="false">Customer Home</a></li>
+                                        <li class="nav-item dropdown"> <a class="nav-link" href="./index.php" role="button" aria-haspopup="true" aria-expanded="false">Admin Home</a></li>
+                                        <li class="nav-item"> <a class="nav-link" href="../property.php">List Properties</a> </li>
+                                        <li class="nav-item"> <a class="nav-link" href="../team.php">Team</a> </li>
+                                        <li class="nav-item"> <a class="nav-link" href="../contact.php">Contact Us</a> </li>		
+                                        <li class="nav-item"> <a class="nav-link" href="../about.php">About</a> </li>
 										
 										<?php  if(isset($_SESSION['uemail']))
 										{ ?>

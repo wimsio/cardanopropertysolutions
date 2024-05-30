@@ -12,13 +12,12 @@
  *****/
 function breadcrumbs($path)
 {
-    echo '  <div class="banner-full-row page-banner" style="height:110px;background-color: #0b2d0f !important;">
+    echo '  <div class="banner-full-row page-banner" style="height:100px;background-color: #0b2d0f !important;">
       <div class="container">
         <div class="row">
           <div class="col-md-6">
             <p class="page-name float-left text-white mt-1 mb-0">
-              <span id="cardanoInformation"></span><br>
-              <span style="color:orange;"> ***NB: This webapp/dApp is a prototype. All data here is demo.</span>
+              <span id="cardanoInformation"></span>
             </p>
           </div>
           <div class="col-md-6">
