@@ -33,6 +33,8 @@ C: Smart Contract Design and Source Code sample
 ![image](https://github.com/user-attachments/assets/13bc6eae-9143-42cb-a8a7-3e1a98219f5c)
 ![onchain helios market smart contract drawio](https://github.com/user-attachments/assets/efa63e99-ced1-412a-8eae-4c2307921800)
 
+Validator Scripts can be viewed here https://github.com/wimsio/cardanopropertysolutions/tree/main/src-29-12-2024/scripts. Below is a sample of Helios Validator for property market place 
+
 ```
 export const buySellShareTokensMarket =
 `
@@ -317,6 +319,23 @@ f.![Pasted image (5)](https://github.com/user-attachments/assets/b7f2cbfe-c0ed-4
 
 E: Backend Database Schema
 ![image](https://github.com/user-attachments/assets/713d55f1-ab72-4f4b-976c-b4e2af632854)
+
+F: Live Assistance 
+
+Coxygen Global runs Mondays to Friday from 10:30 am to 16:30pm SAT timezone and anyone can join to learn about Cardano Smart Contract development. Link is : 
+
+https://www.freeconferencecall.com/wall/coxygen/ 
+676767
+
+Telegram link:
+https://t.me/wimsolutions
+
+Whatsapp link :
+https://chat.whatsapp.com/I6y3xrRLMRfAIXQPb1IuU3
+
+Thank you.
+------------------------------------------------------------------------By Bernard Sibada [CTO]--------------------------------------------------------
+
 
 
 
