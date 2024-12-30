@@ -23,5 +23,6 @@ B: Design, Testing and Feedback Videos
 7. [Cardano Property Solutions Presentation John Agriculture Ghana and Botswana 2024 12 27](https://youtu.be/D5ZwEFAYmhw)
 8. [Cardano Property Solutions dApp Testing 2024 12 26 21 19 GMT+2](https://youtu.be/e7KPlEJLB3M)
 9. [Cardano Property Solutions Feedback and Demo Session ](https://youtu.be/1iKNEkpJh48)
+10. [Property Solutions Cardano Smart Contract Design and Development 2024 12 29 #1](https://youtu.be/FxVzyAzZirk)
 
 
