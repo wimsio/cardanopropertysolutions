@@ -2,6 +2,9 @@
 
 This is the repository for the dApp prototype. This has the following:
 
+Close out Report : https://github.com/wimsio/cardanopropertysolutions/blob/main/close-out-report-and-video/Close%20Out%20Report%20%3A%20Catalyst%201100070.pdf
+Close out Video : https://www.youtube.com/watch?v=vvZ-j3oYiGA
+
 A: Information and links
 
 1. [User Requirement Specifications Document](https://github.com/wimsio/cardanopropertysolutions/blob/main/User%20Requirement%20Specifications%20Document.md)
