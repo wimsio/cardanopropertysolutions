@@ -2,9 +2,9 @@
 
 This is the repository for the dApp prototype. This has the following:
 
-Close out Report 11-03-2025 : https://github.com/wimsio/cardanopropertysolutions/blob/main/close-out-report-and-video/Close%20Out%20Report%20%3A%20Catalyst%201100070.pdf
+Close out Report 11-03-2025 : https://github.com/wimsio/cardanopropertysolutions/blob/main/close-out-report-and-video/Cardanno%20Property%20Industry%20Solutions%201100070%20v3.pdf
 
-Close out Video 11-03-2025 : https://youtu.be/52K8Ja_BxRI
+Close out Video 11-03-2025 : https://www.youtube.com/watch?v=WF87G7fBFXk
 
 A: Information and links
 
