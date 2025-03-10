@@ -14,7 +14,8 @@ A: Information and links
 4. Source code developed: Front End of the dApp hosted - `https://github.com/wimsio/cardanopropertysolutions at src/frontend
 5. Source code developed: Back End of the dApp hosted - `https://github.com/wimsio/cardanopropertysolutions at src/backend && https://github.com/wimsio/cardanopropertysolutions at src/admin
 6. [Integrated fully running web application](https://cardanopropertysolutions.co/)
-7. [Video showing a fully running application](https://youtu.be/1iKNEkpJh48)
+7. [Video Testing : fully running application-11-03-2025](https://youtu.be/52K8Ja_BxRI)
+8. [Video showing a fully running application-December 2024](https://youtu.be/1iKNEkpJh48)
 
 B: Design, Testing and Feedback Videos
 
